@@ -1,7 +1,7 @@
 # Networkwalks-cybersecurity-lab-week4-083E
 Hands-on Networkwalks cybersecurity lab covering web reconnaissance, PDF metadata analysis, SQL backup exposure, vulnerability assessment, and security recommendations using Kali Linux.
-Objectives
 
+objectives
 - Perform web reconnaissance.
 - Analyse PDF metadata using ExifTool.
 - Identify exposed SQL database backups.
