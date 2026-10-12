@@ -8,7 +8,7 @@ Hands-on Networkwalks cybersecurity lab covering web reconnaissance, PDF metadat
 - Assess security vulnerabilities.
 - Recommend security improvements.
 
-Tools Used
+## Tools Used
 
 - Kali Linux
 - Firefox
@@ -16,13 +16,13 @@ Tools Used
 - qpdf
 - Linux command-line tools
 
-Key Findings
+## Key Findings
 
 - Sensitive information was exposed through a publicly accessible database backup.
 - PDF metadata contained information about the backup location.
 - Directory listing was enabled on the old backup directory.
 
-Recommendations
+## Recommendations
 
 - Remove exposed database backups from public web directories.
 - Disable directory listing.
@@ -33,6 +33,6 @@ Screenshots
 
 Screenshots documenting the practical exercises are included in this repository.
 
-Learning Outcome
+##Learning Outcome
 
 This lab improved my practical skills in reconnaissance, metadata analysis, vulnerability identification, and security documentation.
